@@ -1,3 +1,5 @@
 # landing-page
-landing page about busssiness work 
+landing page about a startup busssiness work 
 http://viral-infection.org
+
+using technologies Html,Css,Javascript
